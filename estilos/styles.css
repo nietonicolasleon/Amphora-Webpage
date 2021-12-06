@@ -33,7 +33,6 @@ ul{
     justify-content: space-between;
     align-items: center;
     height: 80px;
-    padding: 20px 0px;
 }
 
 .nav-logo{
@@ -48,7 +47,7 @@ ul{
     padding: 10px;
 }
 .nav-main ul li a{
-    padding: 2px;
+    padding: 2px 8px;
 }
 
 .nav-main ul li a:hover{
@@ -81,6 +80,11 @@ ul{
     padding: 10px 20px;
     background: #262626;
     color: powderblue;
-    font-size: 15px;
+    font-size: 20px;
     border: 1px solid #fff;
+    margin: 10px 0px;
+}
+
+.boton:hover{
+    opacity: 0.95;
 }
