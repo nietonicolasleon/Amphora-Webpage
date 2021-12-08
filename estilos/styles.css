@@ -12,6 +12,13 @@ body{
     font-weight: 400;
 }
 
+h3{
+    color: powderblue;
+    text-align: justify;
+    padding: 10px;
+    font-size: 35px;
+}
+
 a{
     text-decoration: none;
 }
