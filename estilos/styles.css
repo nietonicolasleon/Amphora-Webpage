@@ -128,3 +128,38 @@ hr{
     display: inline-block;
     font-weight: bold;
 }
+
+/*Redes sociales*/
+
+.redes{
+    margin: 50px;
+    margin-top: 150px;
+}
+
+.redes p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links a{
+    margin: 0px 30px;
+}
+
+.links a i{
+    font-size: 40px;
+}
+
+#face{
+    color: blue;
+}
+
+#insta{
+    color: orangered;
+}
