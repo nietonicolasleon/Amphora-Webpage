@@ -66,6 +66,10 @@ ul{
     margin-left: 20px;
 }
 
+hr{
+    margin: 10px 0px;
+}
+
 /*Estilos principal*/
 
 .principal{
@@ -94,4 +98,9 @@ ul{
 
 .boton:hover{
     opacity: 0.95;
+}
+
+.principal h2,
+.principal p{
+    margin-bottom: 10px;
 }
