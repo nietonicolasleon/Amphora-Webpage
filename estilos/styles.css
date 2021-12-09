@@ -154,10 +154,63 @@ hr{
     color: powderblue;
 }
 
-.destacados a{
-    padding: 10px 0px;
-    display: inline-block;
-    font-weight: bold;
+/*Contactos*/
+
+.mcontacto{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
+    grid-template-areas: 
+        "a b"
+        "c d";
+}
+
+.item1{
+    grid-area: a;
+    justify-self: center;
+}
+
+.item2{
+    grid-area: b;
+    justify-self: center;
+}
+
+.item3{
+    grid-area: c;
+    justify-self: center;
+}
+
+.item4{
+    grid-area: d;
+    justify-self: center;
+}
+
+.mcontacto h4{
+    font-size: 25px;
+    margin: 10px 0px;
+    color: powderblue;
+}
+
+#facebig{
+    font-size: 50px;
+    color: blue;
+}
+
+#instabig{
+    font-size: 50px;
+    color: orangered;
+}
+
+#whatsbig{
+    font-size: 50px;
+    color: green;
+}
+
+#mailbig{
+    font-size: 50px;
+    color: red;
 }
 
 /*Redes sociales y footer*/
