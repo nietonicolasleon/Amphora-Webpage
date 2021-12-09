@@ -1,1 +1,1 @@
-cconsole.log("Vinoteca Amphora");
+console.log("Vinoteca Amphora");
