@@ -189,7 +189,7 @@ hr{
     color: red;
 }
 
-@media (max-width: 700px){
+@media (max-width: 750px){
 
     .nav-main ul.nav-menu{
         display: block;
@@ -214,5 +214,11 @@ hr{
 
     .destacados{
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 610px) {
+    .destacados{
+        grid-template-columns: repeat(1, 1fr);
     }
 }
