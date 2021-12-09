@@ -113,6 +113,27 @@ hr{
     color: whitesmoke;
 }
 
+.titular{
+    color: gold;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bolder;
+}
+
+.parrafo{
+    color: greenyellow;
+    padding: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 25px;
+}
+
 /*Productos Destacados*/
 
 .destacados{
