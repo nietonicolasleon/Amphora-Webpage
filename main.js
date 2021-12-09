@@ -4,3 +4,5 @@ document.querySelector('.menu-btn').addEventListener('click', () => {
 
 ScrollReveal().reveal('.principal');
 ScrollReveal().reveal('.destacados', {delay : 500});
+ScrollReveal().reveal('.titular');
+ScrollReveal().reveal('.parrafo', {delay : 500});
