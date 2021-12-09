@@ -129,17 +129,24 @@ hr{
     font-weight: bold;
 }
 
-/*Redes sociales*/
+/*Redes sociales y footer*/
 
 .redes{
-    margin: 50px;
+    background: #2f3640;
     margin-top: 150px;
+    padding: 25px;
 }
 
 .redes h3{
-    text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 10px;
+}
+
+.footer-container{
+    font-size: 15px;
+    padding: 20px 0px;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 .links{
@@ -153,7 +160,7 @@ hr{
 }
 
 .links a i{
-    font-size: 40px;
+    font-size: 35px;
 }
 
 #face{
@@ -162,4 +169,12 @@ hr{
 
 #insta{
     color: orangered;
+}
+
+#whats{
+    color: green;
+}
+
+#mail{
+    color: red;
 }
