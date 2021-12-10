@@ -121,6 +121,7 @@ hr{
     align-items: center;
     justify-content: flex-end;
     font-weight: bolder;
+    margin-bottom: 10px;
 }
 
 .parrafo{
@@ -160,8 +161,8 @@ hr{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    grid-gap: 10px;
     grid-auto-rows: 100px;
+    gap: 10px;
     grid-template-areas: 
         "a b"
         "c d";
@@ -225,11 +226,51 @@ hr{
     margin-bottom: 60px;
 }
 
+/*Productos*/
+
+.prodcontainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 500px;
+    gap: 10px;
+    margin: 10px 0px;
+    grid-template-areas: 
+        "a b c";
+}
+
+.prodcontainer img{
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.prodcontainer h3{
+    font-size: 35px;
+    justify-self: center;
+    margin-bottom: 50px;
+}
+
+.pvino{
+    grid-area: a;
+    justify-self: end;
+}
+
+.pespumante{
+    grid-area: b;
+    justify-self: center;
+}
+
+.pcombo{
+    grid-area: c;
+    justify-self: start;
+}
+
 /*Redes sociales y footer*/
 
 .redes{
     background: #2f3640;
-    margin-top: 150px;
+    margin-top: 200px;
     padding: 25px;
 }
 
