@@ -7,3 +7,4 @@ ScrollReveal().reveal('.destacados', {delay : 500});
 ScrollReveal().reveal('.titular');
 ScrollReveal().reveal('.parrafo', {delay : 500});
 ScrollReveal().reveal('.mcontacto', {delay : 500});
+ScrollReveal().reveal('.prodcontainer', {delay : 500});
