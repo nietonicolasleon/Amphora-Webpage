@@ -487,6 +487,10 @@ hr{
     .espumantes{
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .combos{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 @media (max-width: 610px) {
