@@ -14,3 +14,7 @@ ScrollReveal().reveal('.vino3', {delay : 150});
 ScrollReveal().reveal('.vino4', {delay : 150});
 ScrollReveal().reveal('.vino5', {delay : 150});
 ScrollReveal().reveal('.vino6', {delay : 150});
+ScrollReveal().reveal('.esp2', {delay : 150});
+ScrollReveal().reveal('.esp3', {delay : 150});
+ScrollReveal().reveal('.esp4', {delay : 150});
+ScrollReveal().reveal('.esp5', {delay : 150});
