@@ -300,6 +300,14 @@ hr{
     justify-self: center;
 }
 
+.vino7{
+    justify-self: center;
+}
+
+.vino8{
+    justify-self: center;
+}
+
 .vinos h4{
     font-size: 25px;
     margin: 10px 0px;
@@ -399,7 +407,7 @@ hr{
 
 .redes{
     background: #2f3640;
-    margin-top: 200px;
+    margin-top: 100px;
     padding: 25px;
 }
 
