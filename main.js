@@ -28,5 +28,6 @@ ScrollReveal().reveal('.combo6', {delay : 150});
 ScrollReveal().reveal('.combo7', {delay : 150});
 ScrollReveal().reveal('.combo8', {delay : 150});
 ScrollReveal().reveal('.combo9', {delay : 150});
+ScrollReveal().reveal('.combo10', {delay : 150});
 ScrollReveal().reveal('.imagen', {delay : 250});
 ScrollReveal().reveal('.desc', {delay : 500});
