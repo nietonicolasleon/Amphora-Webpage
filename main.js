@@ -6,6 +6,7 @@ ScrollReveal().reveal('.principal');
 ScrollReveal().reveal('.destacados', {delay : 500});
 ScrollReveal().reveal('.titular');
 ScrollReveal().reveal('.parrafo', {delay : 500});
+ScrollReveal().reveal('.mapas', {delay : 750});
 ScrollReveal().reveal('.mcontacto', {delay : 500});
 ScrollReveal().reveal('.prodcontainer', {delay : 500});
 ScrollReveal().reveal('.vino1', {delay : 150});
