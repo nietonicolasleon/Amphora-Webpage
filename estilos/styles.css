@@ -194,6 +194,12 @@ hr{
     color: gold;
 }
 
+.mcontacto h5{
+    font-size: 25px;
+    margin: 10px 0px;
+    color: gold;
+}
+
 #facebig{
     font-size: 60px;
     color: blue;
