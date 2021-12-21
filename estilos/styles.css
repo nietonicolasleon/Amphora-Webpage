@@ -155,6 +155,19 @@ hr{
     color: gold;
 }
 
+/*Acerca de*/
+
+.mapas{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+    margin: 10px;
+}
+
+.mapas iframe{
+    justify-self: center;
+}
+
 /*Contactos*/
 
 .mcontacto{
@@ -538,6 +551,10 @@ hr{
     }
 
     .producto{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .mapas{
         grid-template-columns: repeat(1, 1fr);
     }
 }
