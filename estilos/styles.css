@@ -103,6 +103,16 @@ hr{
     margin-bottom: 10px;
 }
 
+.principal h2{
+    color: #842833;
+}
+
+.principal p{
+    color: #000;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
 .menu-btn{
     position: absolute;
     cursor: pointer;
