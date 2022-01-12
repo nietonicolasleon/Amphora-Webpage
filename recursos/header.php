@@ -1,6 +1,6 @@
 <nav class="nav-main">
     <a href="/index.php">
-        <img src="/images/Anfora.png" alt="Logo de Amphora" class="nav-logo"/>
+        <img src="../images/Anfora.png" alt="Logo de Amphora" class="nav-logo"/>
     </a>
     <a href="/index.php">
         <h3>Amphora</h3>

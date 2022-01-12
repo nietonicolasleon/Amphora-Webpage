@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="/estilos/styles.css"/>
+    <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
-    <link rel="shotcut icon" href="/images/Anforaico.ico"/>
+    <link rel="shotcut icon" href="../images/Anforaico.ico"/>
     <title>Espumantes</title>
 </head>
 <body>
@@ -22,7 +22,7 @@
     <!--Header-->
     <div class="container">
         <?php
-            require_once('recursos/header.php');
+            require_once '../recursos/header.php';
         ?>
         <hr/>
     </div>
@@ -52,17 +52,17 @@
             </a>
         </div>
         <div class="esp5">
-            <a href="/productos/espumantes/pinotnoirencuentro.php">
-                <img src="/images/eDiapositiva5.JPG" alt="Espumante Encuentro PN">
+            <a href="../productos/espumantes/pinotnoirencuentro.php">
+                <img src="../images/eDiapositiva5.JPG" alt="Espumante Encuentro PN">
             </a>
-            <a href="/productos/espumantes/pinotnoirencuentro.php">
+            <a href="../productos/espumantes/pinotnoirencuentro.php">
                 <h4>Espumante Encuentro Brut Nature Pinot Noir Estuche</h4>
             </a>
         </div>
     </div>
     <!--Redes Sociales-->
     <?php
-        require_once('recursos/footer.php');
+        require_once '../recursos/footer.php';
     ?>
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
