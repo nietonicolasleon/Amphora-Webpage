@@ -28,7 +28,7 @@
         <!--Imagen Principal-->
         <header class="principal">
             <h2>Vinoteca Amphora</h2>
-            <p>In Vino Veritas</p>
+            <p>In Vino Veritas, porque creemos en el vino.</p>
             <a href="/acercade.html" class="boton">Leer más <i class="fas fa-angle-double-right"></i></a>
         </header>
         <!--Productos destacados-->
