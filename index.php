@@ -75,10 +75,10 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="/main.js"></script>
+    <script src="main.js"></script>
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="/sweetalert.js"></script>
+    <script src="sweetalert.js"></script>
 </body>
 </html>
