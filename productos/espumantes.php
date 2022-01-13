@@ -28,26 +28,26 @@
     </div>
     <div class="espumantes">
         <div class="esp2">
-            <a href="/productos/espumantes/extrabrutsanfelipe.php">
-                <img src="/images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
+            <a href="../productos/espumantes/extrabrutsanfelipe.php">
+                <img src="../images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
             </a>
-            <a href="/productos/espumantes/extrabrutsanfelipe.php">
+            <a href="../productos/espumantes/extrabrutsanfelipe.php">
                 <h4>Espumante San Felipe Extra Brut</h4>
             </a>
         </div>
         <div class="esp3">
-            <a href="/productos/espumantes/rosetrumpeter.php">
-                <img src="/images/eDiapositiva3.JPG" alt="Espumante Trumpeter RB">
+            <a href="../productos/espumantes/rosetrumpeter.php">
+                <img src="../images/eDiapositiva3.JPG" alt="Espumante Trumpeter RB">
             </a>
-            <a href="/productos/espumantes/rosetrumpeter.php">
+            <a href="../productos/espumantes/rosetrumpeter.php">
                 <h4>Espumante Trumpeter Rosé de Malbec</h4>
             </a>
         </div>
         <div class="esp4">
-            <a href="/productos/espumantes/extrabruttrumpeter.php">
-                <img src="/images/eDiapositiva4.JPG" alt="Espumante Trumpeter EB">
+            <a href="../productos/espumantes/extrabruttrumpeter.php">
+                <img src="../images/eDiapositiva4.JPG" alt="Espumante Trumpeter EB">
             </a>
-            <a href="/productos/espumantes/extrabruttrumpeter.php">
+            <a href="../productos/espumantes/extrabruttrumpeter.php">
                 <h4>Espumante Trumpeter Extra Brut</h4>
             </a>
         </div>
@@ -67,10 +67,10 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="/main.js"></script>
+    <script src="../main.js"></script>
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="/sweetalert.js"></script>
+    <script src="../sweetalert.js"></script>
 </body>
 </html>
