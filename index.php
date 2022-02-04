@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="estilos/styles.css"/>
+    <link rel="stylesheet" href="/estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
-    <link rel="shotcut icon" href="images/Anforaico.ico"/>
+    <link rel="shotcut icon" href="/images/Anforaico.ico"/>
     <title>Página Web Oficial de Amphora</title>
 </head>
 <body>
@@ -29,40 +29,40 @@
         <header class="principal">
             <h2>Vinoteca Amphora</h2>
             <p>In Vino Veritas, porque creemos en el vino.</p>
-            <a href="acercade.php" class="boton">Leer más <i class="fas fa-angle-double-right"></i></a>
+            <a href="/acercade.html" class="boton">Leer más <i class="fas fa-angle-double-right"></i></a>
         </header>
         <!--Productos destacados-->
         <h3>Productos destacados: </h3>
         <div class="destacados">
             <div>
-                <a href="productos/vinos/malbecrutini.php">
-                    <img src="images/vDiapositiva2.JPG" alt="Vino Rutini Malbec">
+                <a href="/productos/vinos/malbecrutini.html">
+                    <img src="/images/vDiapositiva2.JPG" alt="Vino Rutini Malbec">
                 </a>
-                <a href="productos/vinos/malbecrutini.php">
+                <a href="/productos/vinos/malbecrutini.html">
                     <h4>Vino Rutini Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="productos/vinos/malbectrumpeter.php">
-                    <img src="images/vDiapositiva4.JPG" alt="Vino Trumpeter Malbec">
+                <a href="/productos/vinos/malbectrumpeter.html">
+                    <img src="/images/vDiapositiva4.JPG" alt="Vino Trumpeter Malbec">
                 </a>
-                <a href="productos/vinos/malbectrumpeter.php">
+                <a href="/productos/vinos/malbectrumpeter.html">
                     <h4>Vino Trumpeter Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="productos/vinos/malbecsanfelipe.php">
-                    <img src="images/vDiapositiva7.JPG" alt="Vino San Felipe">
+                <a href="/productos/vinos/malbecsanfelipe.html">
+                    <img src="/images/vDiapositiva7.JPG" alt="Vino San Felipe">
                 </a>
-                <a href="productos/vinos/malbecsanfelipe.php">
+                <a href="/productos/vinos/malbecsanfelipe.html">
                     <h4>Vino San Felipe Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="productos/espumantes/extrabrutsanfelipe.php">
-                    <img src="images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
+                <a href="/productos/espumantes/extrabrutsanfelipe.html">
+                    <img src="/images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
                 </a>
-                <a href="productos/espumantes/extrabrutsanfelipe.php">
+                <a href="/productos/espumantes/extrabrutsanfelipe.html">
                     <h4>Espumante San Felipe Extra Brut</h4>
                 </a>
             </div>
@@ -75,10 +75,10 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="main.js"></script>
+    <script src="/main.js"></script>
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="sweetalert.js"></script>
+    <script src="/sweetalert.js"></script>
 </body>
 </html>
