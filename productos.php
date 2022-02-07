@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="/estilos/styles.css"/>
+    <link rel="stylesheet" href="estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
-    <link rel="shotcut icon" href="/images/Anforaico.ico"/>
+    <link rel="shotcut icon" href="images/Anforaico.ico"/>
     <title>Productos</title>
 </head>
 <body>
@@ -29,26 +29,26 @@
     <h1 class="titular">Nuestros productos: </h1>
     <div class="prodcontainer">
         <div class="pvino">
-            <a href="/productos/vinos.php">
-                <img src="/images/vinosproductos.jpg" alt="Vinos">
+            <a href="productos/vinos.php">
+                <img src="images/vinosproductos.jpg" alt="Vinos">
             </a>
-            <a href="/productos/vinos.php">
+            <a href="productos/vinos.php">
                 <h3>Vinos</h3>
             </a>
         </div>
         <div class="pespumante">
-            <a href="/productos/espumantes.php">
-                <img src="/images/espumantesproductos.jpg" alt="Espumantes">
+            <a href="productos/espumantes.php">
+                <img src="images/espumantesproductos.jpg" alt="Espumantes">
             </a>
-            <a href="/productos/espumantes.php">
+            <a href="productos/espumantes.php">
                 <h3>Espumantes</h3>
             </a>
         </div>
         <div class="pcombo">
-            <a href="/productos/promociones.php">
-                <img src="/images/combosproductos.jpg" alt="Combos">
+            <a href="productos/promociones.php">
+                <img src="images/combosproductos.jpg" alt="Combos">
             </a>
-            <a href="/productos/promociones.php">
+            <a href="productos/promociones.php">
                 <h3>Promociones</h3>
             </a>
         </div>
@@ -60,10 +60,10 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="/main.js"></script>
+    <script src="main.js"></script>
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="/sweetalert.js"></script>
+    <script src="sweetalert.js"></script>
 </body>
 </html>
