@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="/estilos/styles.css"/>
+    <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
-    <link rel="shotcut icon" href="/images/Anforaico.ico"/>
+    <link rel="shotcut icon" href="../images/Anforaico.ico"/>
     <title>Vinos</title>
 </head>
 <body>
@@ -163,10 +163,10 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="/main.js"></script>
+    <script src="../main.js"></script>
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="/sweetalert.js"></script>
+    <script src="../sweetalert.js"></script>
 </body>
 </html>
