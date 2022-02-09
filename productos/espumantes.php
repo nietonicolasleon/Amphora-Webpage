@@ -22,7 +22,7 @@
     <!--Header-->
     <div class="container">
         <?php
-            require_once '../recursos/header.php';
+            require_once '../recursos/headeralt.php';
         ?>
         <hr/>
     </div>
