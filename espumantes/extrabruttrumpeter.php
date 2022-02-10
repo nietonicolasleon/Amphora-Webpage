@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Espumante San Felipe Extra Brut</title>
+    <title>Espumante Trumpeter Extra Brut</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -23,17 +23,21 @@
     <?php
         require_once '../recursos/headeralt.php';
     ?>
-    <h2 class="titular">Espumante San Felipe Extra Brut</h2>
+    <h2 class="titular">Espumante Trumpeter Extra Brut</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
+            <img src="../images/eDiapositiva4.JPG" alt="Espumante Trumpeter Extra Brut">
         </div>
         <div>
             <p class="desc">
-                Vino espumoso elaborado con las uvas de las variedades Chenin y Chardonnay por método Charmat.<br> 
-                De color dorado con reflejos verdosos, posee burbujas finas y persistentes. Su aroma, muy frutado, recuerda a ananá y duraznos blancos.
-                El contacto con sus lías, le otorgan a este gran espumante el equilibrio necesario entre frutas cítricas y complejidad en boca.
-                De final limpio, fresco y largo. Ideal como aperitivo o para acompañar comidas.<br>
+                Chardonnay 100% Uvas de nuestros viñedos cultivados al pie de la Cordillera de los Andes.<br>
+                <br>
+                Método Tradicional: 12 meses en contacto con sus borras.<br>
+                <br>
+                De color dorado brillante con reflejos verdosos. Delicado aroma a manzanas verdes y pan tostado.
+                Buen equilibrio entre el azúcar y el acidez.<br>
+                Burbuja fina y persistente.<br>
+                <br>
                 Contenido: 750 ml.<br>
                 <br>
                 Descargá la lista de precios:<br>
