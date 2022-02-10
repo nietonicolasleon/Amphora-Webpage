@@ -35,7 +35,9 @@
                 El contacto con sus lías, le otorgan a este gran espumante el equilibrio necesario entre frutas cítricas y complejidad en boca.
                 De final limpio, fresco y largo. Ideal como aperitivo o para acompañar comidas.<br>
                 Contenido: 750 ml.<br>
-                Precio: ARS 650
+                <br>
+                Descargá la lista de precios:<br>
+                <a href="../downloads/Amphora Lista de Precios Espumantes Feb 2022.pdf" class="boton" download="AmphoraLPEspFeb2022.pdf">Descargar</a>
             </p>
             <h3 class="titular" id="titucontacto">Pedilo mandando un mensaje a través de:</h3>
             <div class="mcontacto">
