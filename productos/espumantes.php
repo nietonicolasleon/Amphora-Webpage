@@ -28,34 +28,34 @@
     </div>
     <div class="espumantes">
         <div class="esp2">
-            <a href="../productos/espumantes/extrabrutsanfelipe.php">
+            <a href="../espumantes/extrabrutsanfelipe.php">
                 <img src="../images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
             </a>
-            <a href="../productos/espumantes/extrabrutsanfelipe.php">
+            <a href="../espumantes/extrabrutsanfelipe.php">
                 <h4>Espumante San Felipe Extra Brut</h4>
             </a>
         </div>
         <div class="esp3">
-            <a href="../productos/espumantes/rosetrumpeter.php">
+            <a href="../espumantes/rosetrumpeter.php">
                 <img src="../images/eDiapositiva3.JPG" alt="Espumante Trumpeter RB">
             </a>
-            <a href="../productos/espumantes/rosetrumpeter.php">
+            <a href="../espumantes/rosetrumpeter.php">
                 <h4>Espumante Trumpeter Rosé de Malbec</h4>
             </a>
         </div>
         <div class="esp4">
-            <a href="../productos/espumantes/extrabruttrumpeter.php">
+            <a href="../espumantes/extrabruttrumpeter.php">
                 <img src="../images/eDiapositiva4.JPG" alt="Espumante Trumpeter EB">
             </a>
-            <a href="../productos/espumantes/extrabruttrumpeter.php">
+            <a href="../espumantes/extrabruttrumpeter.php">
                 <h4>Espumante Trumpeter Extra Brut</h4>
             </a>
         </div>
         <div class="esp5">
-            <a href="../productos/espumantes/pinotnoirencuentro.php">
+            <a href="../espumantes/pinotnoirencuentro.php">
                 <img src="../images/eDiapositiva5.JPG" alt="Espumante Encuentro PN">
             </a>
-            <a href="../productos/espumantes/pinotnoirencuentro.php">
+            <a href="../espumantes/pinotnoirencuentro.php">
                 <h4>Espumante Encuentro Brut Nature Pinot Noir Estuche</h4>
             </a>
         </div>
