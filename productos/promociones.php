@@ -28,130 +28,130 @@
     </div>
     <div class="combos">
         <div class="combo1">
-            <a href="../productos/promociones/comboamigos.php">
+            <a href="../promociones/comboamigos.php">
                 <img src="../images/Diapositiva1.JPG" alt="combo1">
             </a>
-            <a href="../productos/promociones/comboamigos.php">
+            <a href="../promociones/comboamigos.php">
                 <h4>Combo Amigos</h4>
             </a>
         </div>
         <div class="combo2">
-            <a href="../productos/promociones/tresmosqueteros.php">
+            <a href="../promociones/tresmosqueteros.php">
                 <img src="../images/Diapositiva2.JPG" alt="combo2">
             </a>
-            <a href="../productos/promociones/tresmosqueteros.php">
+            <a href="../promociones/tresmosqueteros.php">
                 <h4>Combo Tres Mosqueteros</h4>
             </a>
         </div>
         <div class="combo3">
-            <a href="../productos/promociones/cenaybrindis1.php">
+            <a href="../promociones/cenaybrindis1.php">
                 <img src="../images/Diapositiva3.JPG" alt="combo3">
             </a>
-            <a href="../productos/promociones/cenaybrindis1.php">
+            <a href="../promociones/cenaybrindis1.php">
                 <h4>Combo Cena y Brindis Acto 1</h4>
             </a>
         </div>
         <div class="combo4">
-            <a href="../productos/promociones/cenaybrindis2.php">
+            <a href="../promociones/cenaybrindis2.php">
                 <img src="../images/Diapositiva4.JPG" alt="combo4">
             </a>
-            <a href="../productos/promociones/cenaybrindis2.php">
+            <a href="../promociones/cenaybrindis2.php">
                 <h4>Combo Cena y Brindis Acto 2</h4>
             </a>
         </div>
         <div class="combo5">
-            <a href="../productos/promociones/cenaybrindis3.php">
+            <a href="../promociones/cenaybrindis3.php">
                 <img src="../images/Diapositiva5.JPG" alt="combo5">
             </a>
-            <a href="../productos/promociones/cenaybrindis3.php">
+            <a href="../promociones/cenaybrindis3.php">
                 <h4>Combo Cena y Brindis Acto 3</h4>
             </a>
         </div>
         <div class="combo6">
-            <a href="../productos/promociones/cajamalbec.php">
+            <a href="../promociones/cajamalbec.php">
                 <img src="../images/Diapositiva6.JPG" alt="combo6">
             </a>
-            <a href="../productos/promociones/cajamalbec.php">
+            <a href="../promociones/cajamalbec.php">
                 <h4>Caja Malbec</h4>
             </a>
         </div>
         <div class="combo7">
-            <a href="../productos/promociones/cajasanfe.php">
+            <a href="../promociones/cajasanfe.php">
                 <img src="../images/Diapositiva7.JPG" alt="combo7">
             </a>
-            <a href="../productos/promociones/cajasanfe.php">
+            <a href="../promociones/cajasanfe.php">
                 <h4>Caja San Fe</h4>
             </a>
         </div>
         <div class="combo8">
-            <a href="../productos/promociones/cajafamilia.php">
+            <a href="../promociones/cajafamilia.php">
                 <img src="../images/Diapositiva8.JPG" alt="combo8">
             </a>
-            <a href="../productos/promociones/cajafamilia.php">
+            <a href="../promociones/cajafamilia.php">
                 <h4>Caja Familia</h4>
             </a>
         </div>
         <div class="combo9">
-            <a href="../productos/promociones/cajavariedad.php">
+            <a href="../promociones/cajavariedad.php">
                 <img src="../images/Diapositiva9.JPG" alt="combo9">
             </a>
-            <a href="../productos/promociones/cajavariedad.php">
+            <a href="../promociones/cajavariedad.php">
                 <h4>Caja Variedad</h4>
             </a>
         </div>
         <div class="combo10">
-            <a href="../productos/promociones/cajatrumpeter.php">
+            <a href="../promociones/cajatrumpeter.php">
                 <img src="../images/Diapositiva10.JPG" alt="combo10">
             </a>
-            <a href="../productos/promociones/cajatrumpeter.php">
+            <a href="../promociones/cajatrumpeter.php">
                 <h4>Caja Trumpeter</h4>
             </a>
         </div>
         <div class="combo11">
-            <a href="../productos/promociones/familiasanfelipe1.php">
+            <a href="../promociones/familiasanfelipe1.php">
                 <img src="../images/Diapositiva11.JPG" alt="combo11">
             </a>
-            <a href="../productos/promociones/familiasanfelipe1.php">
+            <a href="../promociones/familiasanfelipe1.php">
                 <h4>Combo Familia San Felipe 1</h4>
             </a>
         </div>
         <div class="combo12">
-            <a href="../productos/promociones/familiasanfelipe2.php">
+            <a href="../promociones/familiasanfelipe2.php">
                 <img src="../images/Diapositiva12.JPG" alt="combo12">
             </a>
-            <a href="../productos/promociones/familiasanfelipe2.php">
+            <a href="../promociones/familiasanfelipe2.php">
                 <h4>Combo Familia San Felipe 2</h4>
             </a>
         </div>
         <div class="combo13">
-            <a href="../productos/promociones/familiasanfelipe3.php">
+            <a href="../promociones/familiasanfelipe3.php">
                 <img src="../images/Diapositiva13.JPG" alt="combo13">
             </a>
-            <a href="../productos/promociones/familiasanfelipe3.php">
+            <a href="../promociones/familiasanfelipe3.php">
                 <h4>Combo Familia San Felipe 3</h4>
             </a>
         </div>
         <div class="combo14">
-            <a href="../productos/promociones/familiatrumpeter1.php">
+            <a href="../promociones/familiatrumpeter1.php">
                 <img src="../images/Diapositiva14.JPG" alt="combo14">
             </a>
-            <a href="../productos/promociones/familiatrumpeter1.php">
+            <a href="../promociones/familiatrumpeter1.php">
                 <h4>Combo Familia Trumpeter 1</h4>
             </a>
         </div>
         <div class="combo15">
-            <a href="../productos/promociones/familiatrumpeter2.php">
+            <a href="../promociones/familiatrumpeter2.php">
                 <img src="../images/Diapositiva15.JPG" alt="combo15">
             </a>
-            <a href="../productos/promociones/familiatrumpeter2.php">
+            <a href="../promociones/familiatrumpeter2.php">
                 <h4>Combo Familia Trumpeter 2</h4>
             </a>
         </div>
         <div class="combo16">
-            <a href="../productos/promociones/comboparejas.php">
+            <a href="../promociones/comboparejas.php">
                 <img src="../images/Diapositiva16.JPG" alt="combo16">
             </a>
-            <a href="../productos/promociones/comboparejas.php">
+            <a href="../promociones/comboparejas.php">
                 <h4>Combo Parejas</h4>
             </a>
         </div>

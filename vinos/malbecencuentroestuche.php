@@ -10,32 +10,48 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="/estilos/styles.css"/>
+    <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Espumante San Felipe Extra Brut</title>
+    <title>Vino Encuentro Malbec Estuche</title>
 </head>
 <body>
     <div class="menu-btn">
         <i class="fas fa-bars"></i>
     </div>
     <!--Header-->
-    <?php
-        require_once '../recursos/headeralt.php';
-    ?>
-    <h2 class="titular">Espumante San Felipe Extra Brut</h2>
+    <div class="container">
+        <?php
+            require_once '../recursos/headeralt.php';
+        ?>
+        <hr/>
+    </div>
+    <h2 class="titular">Vino Encuentro Malbec Estuche</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
+            <img src="../images/vDiapositiva8.JPG" alt="Vino Encuentro Malbec Estuche">
         </div>
         <div>
             <p class="desc">
-                Vino espumoso elaborado con las uvas de las variedades Chenin y Chardonnay por método Charmat.<br> 
-                De color dorado con reflejos verdosos, posee burbujas finas y persistentes. Su aroma, muy frutado, recuerda a ananá y duraznos blancos.
-                El contacto con sus lías, le otorgan a este gran espumante el equilibrio necesario entre frutas cítricas y complejidad en boca.
-                De final limpio, fresco y largo. Ideal como aperitivo o para acompañar comidas.<br>
+                Variedades: 100% Malbec de Tupungato.<br>
+                <br>
+                Edad de los viñedos: Malbec 15 años.
+                <br>
+                Crianza: 12 meses el 100% del corte.<br>
+                <br>
+                Roble: 50% Francés de 1er y 2do uso.<br>
+                <br>
+                Fermentación Maloláctica: 100%<br>
+                <br>
+                Características:<br>
+                Vino de color rojo violáceo intenso con matices azulados. 
+                En nariz presenta notas de frutos maduros como guindas, cerezas e higo y también algunas notas mentoladas  y florales como violestas, entremezcladas con vainilla y cacao.
+                En boca se percibe amplio y de fuerte intensidad aromática, posee gran cuerpo, estructura y concentración.<br>
+                <br>
                 Contenido: 750 ml.<br>
-                Precio: ARS 650
+                <br>
+                Descargá la lista de precios:<br>
+                <a href="../downloads/Amphora Lista de Precios Vinos Feb 2022.pdf" class="boton" download="AmphoraLPVinosFeb2022.pdf">Descargar</a>
             </p>
             <h3 class="titular" id="titucontacto">Pedilo mandando un mensaje a través de:</h3>
             <div class="mcontacto">
@@ -69,6 +85,6 @@
     <!--Conexión con ScrollReveal-->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!--Conexión con el script principal del JavaScript-->
-    <script src="/main.js"></script>
+    <script src="../main.js"></script>
 </body>
 </html>

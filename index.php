@@ -35,34 +35,34 @@
         <h3>Productos destacados: </h3>
         <div class="destacados">
             <div>
-                <a href="./productos/vinos/malbecrutini.html">
+                <a href="./vinos/malbecrutini.html">
                     <img src="./images/vDiapositiva2.JPG" alt="Vino Rutini Malbec">
                 </a>
-                <a href="./productos/vinos/malbecrutini.html">
+                <a href="./vinos/malbecrutini.html">
                     <h4>Vino Rutini Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="./productos/vinos/malbectrumpeter.html">
+                <a href="./vinos/malbectrumpeter.html">
                     <img src="./images/vDiapositiva4.JPG" alt="Vino Trumpeter Malbec">
                 </a>
-                <a href="./productos/vinos/malbectrumpeter.html">
+                <a href="./vinos/malbectrumpeter.html">
                     <h4>Vino Trumpeter Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="./productos/vinos/malbecsanfelipe.html">
+                <a href="./vinos/malbecsanfelipe.html">
                     <img src="./images/vDiapositiva7.JPG" alt="Vino San Felipe">
                 </a>
-                <a href="./productos/vinos/malbecsanfelipe.html">
+                <a href="./vinos/malbecsanfelipe.html">
                     <h4>Vino San Felipe Malbec</h4>
                 </a>
             </div>
             <div>
-                <a href="./productos/espumantes/extrabrutsanfelipe.html">
+                <a href="./espumantes/extrabrutsanfelipe.html">
                     <img src="./images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
                 </a>
-                <a href="./productos/espumantes/extrabrutsanfelipe.html">
+                <a href="./espumantes/extrabrutsanfelipe.html">
                     <h4>Espumante San Felipe Extra Brut</h4>
                 </a>
             </div>
