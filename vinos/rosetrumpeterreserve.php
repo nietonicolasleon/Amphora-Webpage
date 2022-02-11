@@ -36,7 +36,7 @@
                 Este vino elegante y cristalino muestra una atractiva tonalidad clara y diáfana. Sus suaves y arómaticas expresiones de flores silvestres, fruta roja.
                 fresca como cerezas y grosellas, notas especiadas y cítricas denotan su espíritu jovial y etéreo y dan una sensación muy armónica y placentera en boca.<br>
                 <br>
-                Tiempo en madera 2 meses. El 10% de este vino fue fermentado en barricas<br>
+                Tiempo en madera 2 meses. El 10% de este vino fue fermentado en barricas.<br>
                 <br>
                 Temperatura de servicio: de 8°C a 10°C.<br>
                 <br>
