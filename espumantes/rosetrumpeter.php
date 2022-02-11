@@ -20,9 +20,12 @@
         <i class="fas fa-bars"></i>
     </div>
     <!--Header-->
-    <?php
-        require_once '../recursos/headeralt.php';
-    ?>
+    <div class="container">
+        <?php
+            require_once '../recursos/headeralt.php';
+        ?>
+        <hr/>
+    </div>
     <h2 class="titular">Espumante Trumpeter Rosé de Malbec</h2>
     <div class="producto">
         <div class="imagen">
