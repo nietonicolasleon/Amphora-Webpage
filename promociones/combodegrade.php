@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Combo Fiesta</title>
+    <title>Combo Degradé</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,16 +26,16 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Combo Fiesta</h2>
+    <h2 class="titular">Combo Degradé</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/Diapositiva24.JPG" alt="combo24">
+            <img src="../images/Diapositiva25.JPG" alt="combo25">
         </div>
         <div>
             <p class="desc">
-                El combo trae un espumante San Felipe Extra Dolce, un vino Trumpeter Malbec-Syrah, un vino Trumpeter Reserve Pinot Noir, 
-                un vino Encuentro Malbec, un vino Trumpeter Suavignon Blanc y un espumante San Felipe Extra Brut. Ideal para los festejos.<br>
-                Contenido: 750 ml. x6<br>
+                El combo trae un un vino Trumpeter Suavignon Blanc, un vino Trumpeter Reserve Chardonnay, un vino Trumpeter Reserve Doux, 
+                un vino Trumpeter Reserve Rosé de Malbec y un vino Trumpeter Malbec. Una colección de vinos Trumpeter de todos los colores y sabores.<br>
+                Contenido: 750 ml. x5<br>
             </p>
             <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>
             <div class="mcontacto">
