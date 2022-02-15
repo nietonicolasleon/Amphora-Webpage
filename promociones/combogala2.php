@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Caja Gala 1</title>
+    <title>Caja Gala 2</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,14 +26,14 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Caja Gala 1</h2>
+    <h2 class="titular">Caja Gala 2</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/Diapositiva19.JPG" alt="combo19">
+            <img src="../images/Diapositiva20.JPG" alt="combo19">
         </div>
         <div>
             <p class="desc">
-                El combo trae dos San Felipe Roble Malbec, un espumante San Felipe a elección y un San Felipe Roble Cabernet Sauvignon. Un combo excelente para cualquier encuentro que amerite una gala.<br>
+                El combo trae un San Felipe Roble Malbec, un Trumpeter Malbec-Syrah, un espumante San Felipe a elección y un San Felipe Roble Cabernet Sauvignon. Un combo excelente para cualquier encuentro que amerite una gala.<br>
                 Contenido: 750 ml. x4<br>
             </p>
             <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>
