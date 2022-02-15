@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Combo Encuentro</title>
+    <title>Combo Trumpeter Mix</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,15 +26,15 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Combo Encuentro</h2>
+    <h2 class="titular">Combo Trumpeter Mix</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/Diapositiva22.JPG" alt="combo22">
+            <img src="../images/Diapositiva23.JPG" alt="combo23">
         </div>
         <div>
             <p class="desc">
-                El combo trae 4 vinos Encuentro Malbec y un espumante San Felipe a elección. Ideal para cualquier tipo de encuentro.<br>
-                Contenido: 750 ml. x5<br>
+                El combo trae un Trumpeter Malbec-Syrah, un Trumpeter Doux, un Trumpeter Chardonnay y un espumante Trumpeter Rosé de Malbec. Un mix de sabores para los amantes de Trumpeter.<br>
+                Contenido: 750 ml. x4<br>
             </p>
             <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>
             <div class="mcontacto">
