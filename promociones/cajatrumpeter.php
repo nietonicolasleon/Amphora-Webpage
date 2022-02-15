@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Caja Familia</title>
+    <title>Caja Trumpeter</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,14 +26,14 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Caja Familia</h2>
+    <h2 class="titular">Caja Trumpeter</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/Diapositiva8.JPG" alt="combo8">
+            <img src="../images/Diapositiva10.JPG" alt="combo10">
         </div>
         <div>
             <p class="desc">
-                La caja trae tres Vinos Rutini Malbec y tres Vinos Rutini Cabernet Sauvignon-Malbec. Si el Combo Amigos era excelente para compartir con amigos, este es aún mejor para disfrutar en familia<br>
+                La caja trae seis Vinos Trumpeter Malbec. La opción por excelencia para aquellos que aman el Malbec, el Vino Trumpeter y disfrutar de la calidad a un bajo precio.<br>
                 Contenido: 750 ml. x6<br>
             </p>
             <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>

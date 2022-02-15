@@ -10,9 +10,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
     <!--Conexión CSS-->
-    <link rel="stylesheet" href="/estilos/styles.css"/>
+    <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
-    <link rel="shotcut icon" href="/images/Anforaico.ico"/>
+    <link rel="shotcut icon" href="../images/Anforaico.ico"/>
     <title>Caja San Fe</title>
 </head>
 <body>
@@ -29,7 +29,7 @@
     <h2 class="titular">Caja San Fe</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="/images/Diapositiva7.JPG" alt="combo7">
+            <img src="../images/Diapositiva7.JPG" alt="combo7">
         </div>
         <div>
             <p class="desc">
