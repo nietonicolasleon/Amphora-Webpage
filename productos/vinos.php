@@ -155,6 +155,38 @@
                 <h4>Vino Trumpeter Malbec Estuche</h4>
             </a>
         </div>
+        <div class="vino17">
+            <a href="../vinos/rosetrumpeterreserve.php">
+                <img src="../images/vDiapositiva18.JPG" alt="Vino Trumpeter Reserve Rose">
+            </a>
+            <a href="../vinos/rosetrumpeterreserve.php">
+                <h4>Vino Trumpeter Reserve Rosé de Malbec</h4>
+            </a>
+        </div>
+        <div class="vino18">
+            <a href="../vinos/merlotsanfelipe.php">
+                <img src="../images/vDiapositiva19.JPG" alt="Vino SF Merlot">
+            </a>
+            <a href="../vinos/merlotsanfelipe.php">
+                <h4>Vino San Felipe Roble Merlot</h4>
+            </a>
+        </div>
+        <div class="vino19">
+            <a href="../vinos/malbectrumpeterreserve.php">
+                <img src="../images/vDiapositiva20.JPG" alt="Vino Trumpeter Reserve Malbec">
+            </a>
+            <a href="../vinos/malbectrumpeterreserve.php">
+                <h4>Vino Trumpeter Reserve Malbec</h4>
+            </a>
+        </div>
+        <div class="vino20">
+            <a href="../vinos/malbectrumpeter375.php">
+                <img src="../images/vDiapositiva21.JPG" alt="Vino Trumpeter Malbec 375">
+            </a>
+            <a href="../vinos/malbectrumpeter375.php">
+                <h4>Vino Trumpeter Malbec 375 ml.</h4>
+            </a>
+        </div>
     </div>
     <!--Redes Sociales-->
     <?php
