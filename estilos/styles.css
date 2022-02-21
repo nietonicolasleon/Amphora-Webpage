@@ -71,7 +71,7 @@ hr{
 .principal{
     width: 100%;
     height: 550px;
-    background: url(/images/Foto1transparente.jpg) no-repeat center center/cover;
+    background: url("../images/Foto1transparente.jpg") no-repeat center center/cover;
     padding: 50px;
     margin-bottom: 30px;
     display: flex;
@@ -367,6 +367,22 @@ hr{
     justify-self: center;
 }
 
+.vino17{
+    justify-self: center;
+}
+
+.vino18{
+    justify-self: center;
+}
+
+.vino19{
+    justify-self: center;
+}
+
+.vino20{
+    justify-self: center;
+}
+
 .vinos h4{
     font-size: 25px;
     margin: 10px 0px;
@@ -484,6 +500,54 @@ hr{
 }
 
 .combo16{
+    justify-self: center;
+}
+
+.combo17{
+    justify-self: center;
+}
+
+.combo18{
+    justify-self: center;
+}
+
+.combo19{
+    justify-self: center;
+}
+
+.combo20{
+    justify-self: center;
+}
+
+.combo21{
+    justify-self: center;
+}
+
+.combo22{
+    justify-self: center;
+}
+
+.combo23{
+    justify-self: center;
+}
+
+.combo24{
+    justify-self: center;
+}
+
+.combo25{
+    justify-self: center;
+}
+
+.combo26{
+    justify-self: center;
+}
+
+.combo27{
+    justify-self: center;
+}
+
+.combo28{
     justify-self: center;
 }
 
