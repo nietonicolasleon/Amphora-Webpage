@@ -27,7 +27,7 @@
         <hr/>
     </div>
     <h1 id="titucontacto">Aquí se irán publicando los eventos a medida que se vayan programando.</h1>
-    <h1 class="titular" id="titucontacto">Contactate con nosotros para solicitarlo a través de:</h1>
+    <h1 class="titular" id="titucontacto">Contactate con nuestro asesor comercial, Alejandro Popovici, a través de:</h1>
         <div class="mcontacto">
             <div class="item1">
                 <h4>Mensaje de Facebook:</h4>

@@ -17,7 +17,6 @@
             </a>
         </div>
         <h4>Prohibida su venta a menores de 18 años. Beba con moderación.</h4>
-        <h4>10% de descuentro pagando con efectivo o MercadoPago.</h4>
         <br>
         <h4>
             Hecho con
