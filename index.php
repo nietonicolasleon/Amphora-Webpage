@@ -1,7 +1,7 @@
 <?php
     $cooky = 'cookieVisitas';
     if (!isset($_COOKIE[$cooky])) {
-        $expiracion = time() + 60 * 60 * 24;
+        $expiracion = time() + (60 * 60 * 24);
         setcookie($cooky, true, $expiracion, '/');
     }
 ?>
@@ -86,6 +86,10 @@
     <!--Conexión con SweetAlert 2-->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <!--Conexión con sweetalert.js-->
-    <script src="sweetalert.js"></script>
+    <?php
+        if (!isset($_COOKIE['cookieVisitas'])){
+            echo "<script src='sweetalert.js'></script>";
+        }
+    ?>
 </body>
 </html>
