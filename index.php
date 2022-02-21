@@ -1,3 +1,10 @@
+<?php
+    $cooky = 'cookieVisitas';
+    if (!isset($_COOKIE[$cooky])) {
+        $expiracion = time() + 60 * 60 * 24;
+        setcookie($cooky, true, $expiracion, '/');
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
