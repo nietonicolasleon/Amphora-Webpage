@@ -41,6 +41,6 @@ Swal.fire({
       }
     })
   } else if (result.isDenied) {
-    window.location.href = "https://www.google.com/";
+    window.location.href = "borrarcookies.php";
   }
 })
