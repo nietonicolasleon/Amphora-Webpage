@@ -15,7 +15,15 @@
             <a href="mailto:vinoamphora@gmail.com" target="_blank" id="mail">
                 <i class="fa fa-envelope"></i>
             </a>
-            <h4>Prohibida su venta a menores de 18 años. Beba con moderación.</h4>
         </div>
+        <h4>Prohibida su venta a menores de 18 años. Beba con moderación.</h4>
+        <h4>10% de descuentro pagando con efectivo o MercadoPago.</h4>
+        <br>
+        <h4>
+            Hecho con
+            <i class="fa fa-heart" style="color: red;"></i>
+            por
+            <a href="https://github.com/nietonicolasleon" target="_blank" style="color: gold;">Elnicholino</a>
+        </h4>
     </div>
 </section>
