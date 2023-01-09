@@ -9,14 +9,6 @@ Swal.fire({
   background: '#842833',
   backdrop: 'rgba(20,20,20,0.4)'
 }).then((result) => {
-  if (result.isConfirmed) {
-    Swal.fire({
-        title: 'Gracias por aceptar nuestras cookies. Proceda por favor',
-        color: '#ffd700',
-        confirmButtonColor: '#daa520',
-        background: '#842833',
-        backdrop: 'rgba(20,20,20,0.4)'
-    }).then((result) => {
       if (result.isConfirmed) {
         Swal.fire({
           title: 'Usted está apunto de ingresar a la página Web de Amphora',
@@ -27,19 +19,7 @@ Swal.fire({
           confirmButtonText: 'CONFIRMAR',
           background: '#842833',
           backdrop: 'rgba(20,20,20,0.4)'
-        }).then((result) => {
-            if (result.isConfirmed) {
-              Swal.fire({
-                title: 'Recuerde beber con moderación',
-                color: '#ffd700',
-                confirmButtonColor: '#daa520',
-                background: '#842833',
-                backdrop: 'rgba(20,20,20,0.4)'
-              })
-            }
         })
-      }
-    })
   } else if (result.isDenied) {
     window.location.href = "borrarcookies.php";
   }
