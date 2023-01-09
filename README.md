@@ -3,5 +3,5 @@ Repositorio donde estaré desarrollando la página web de Amphora, una empresa a
 
 Desarrollada por: Nicolás León Nieto Ferrari
 
-# Rama de Updates
-Si bien el desarrollo de la primera versión de la página ya ha concluido, iré publicando algunas actualizaciones en esta rama, y si el resultado es convincente, lo publicaré en amphoravinos.com, y por consecuencia, en la rama main.
+# Actualmente, la página ya está en línea. Es posible acceder a ella a través de amphoravinos.com
+En esta rama, main, se publicará solamente la versión más nueva de la página que se encuentra en la web.
