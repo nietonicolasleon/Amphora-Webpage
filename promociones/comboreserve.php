@@ -33,9 +33,9 @@
         </div>
         <div>
             <p class="desc">
-                El combo trae un un vino Trumpeter Reserve Malbec, un vino Trumpeter Reserve Rosé de Malbec un vino Trumpeter Reserve Chardonnay, un vino Trumpeter Reserve Doux, 
-                y un vino Trumpeter Reserve Pinot Noir. Una colección de vinos Trumpeter Reserve, vinos de buena calidad.<br>
-                Contenido: 750 ml. x5<br>
+                El combo trae un un vino Trumpeter Reserve Blend, un vino Trumpeter Reserve Chardonnay y un vino Trumpeter Reserve Pinot Noir. 
+                Una colección de vinos Trumpeter Reserve, vinos de buena calidad.<br>
+                Contenido: 750 ml. x3<br>
             </p>
             <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>
             <div class="mcontacto">
