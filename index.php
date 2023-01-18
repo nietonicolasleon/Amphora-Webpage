@@ -50,11 +50,11 @@
                 </a>
             </div>
             <div>
-                <a href="./vinos/malbectrumpeter.php">
-                    <img src="./images/vDiapositiva4.JPG" alt="Vino Trumpeter Malbec">
+                <a href="./vinos/aaocabernetfranc.php">
+                    <img src="./images/vDiapositiva23.JPG" alt="Vino AAO Cabernet Franc">
                 </a>
-                <a href="./vinos/malbectrumpeter.php">
-                    <h4>Vino Trumpeter Malbec</h4>
+                <a href="./vinos/aaocabernetfranc.php">
+                    <h4>Vino Aguij&oacute;n de Abeja Obrera Cabernet Franc</h4>
                 </a>
             </div>
             <div>
