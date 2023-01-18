@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Vino Cruz Alta Malbec</title>
+    <title>Vino Trumpeter Reserve Tempranillo</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,19 +26,20 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Vino Cruz Alta Malbec</h2>
+    <h2 class="titular">Vino Trumpeter Reserve Tempranillo</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/vDiapositiva26.JPG" alt="Vino CA Malbec">
+            <img src="../images/vDiapositiva28.JPG" alt="Vino Trumpeter Reserve Tempranillo">
         </div>
         <div>
             <p class="desc">
-                Variedad: 100% Malbec.<br>
+                Variedades: 100% Tempranillo de Valle de Uco.<br>
+                Crianza en barricas: 12 meses &#40;30% del corte en roble francés y 70% de 2° uso&#41;<br>
                 <br>
-                Características: Granate profundo, con matices violáceos muy vivaces. Las frutas rojas maduras &#40;cerezas y guindas&#41; destacan una nota marcada de violetas, amalgamadas con otras de vainilla y cacao amargo. 
-                En boca, se reafirma su increíble riqueza aromática junto a taninos dulces y jugosos que redondean el posgusto.<br>
+                Rojo rubí intenso y brillante. Una amplia y fresca paleta aromática domina la nariz &#40;flores, fruta roja, frutos negros maduros&#41;. 
+                Hay evocación a especias &#40;vainilla&#41; en los sabrosos taninos que aseguran un final de boca atractivo y suculento.<br>
                 <br>
-                Contenido: 750 ml.<br>
+                Cantidad: 750 ml.<br>
                 <br>
                 Descargá la lista de precios:<br>
                 <a href="../downloads/Amphora Lista de Precios Vinos Feb 2022.pdf" class="boton" download="AmphoraLPVinosFeb2022.pdf">Descargar</a>
