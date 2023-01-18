@@ -40,10 +40,8 @@
                 <br>
                 Contenido: 750 ml.<br>
                 <br>
-                Descargá la lista de precios:<br>
-                <a href="../downloads/Amphora Lista de Precios Vinos Feb 2022.pdf" class="boton" download="AmphoraLPVinosFeb2022.pdf">Descargar</a>
             </p>
-            <h3 class="titular" id="titucontacto">Pedilo mandando un mensaje a través de:</h3>
+            <h3 class="titular" id="titucontacto">Consultá precio y stock mandando un mensaje a través de:</h3>
             <div class="mcontacto">
                 <div class="item1">
                     <a href="https://www.facebook.com/Amphora-102135655627341" target="_blank" id="facebig">
