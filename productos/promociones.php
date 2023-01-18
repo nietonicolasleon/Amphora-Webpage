@@ -251,6 +251,38 @@
                 <h4>Combo Conquista</h4>
             </a>
         </div>
+        <div class="combo29">
+            <a href="../promociones/combocepanacional.php">
+                <img src="../images/Diapositiva29.JPG" alt="combo29">
+            </a>
+            <a href="../promociones/combocepanacional.php">
+                <h4>Combo Cepa Nacional</h4>
+            </a>
+        </div>
+        <div class="combo30">
+            <a href="../promociones/comboinsigniaarg.php">
+                <img src="../images/Diapositiva30.JPG" alt="combo30">
+            </a>
+            <a href="../promociones/comboinsigniaarg.php">
+                <h4>Combo Insignia Argentina</h4>
+            </a>
+        </div>
+        <div class="combo31">
+            <a href="../promociones/combomalbecyamigos.php">
+                <img src="../images/Diapositiva31.JPG" alt="combo31">
+            </a>
+            <a href="../promociones/combomalbecyamigos.php">
+                <h4>Combo Malbec y Amigos</h4>
+            </a>
+        </div>
+        <div class="combo32">
+            <a href="../promociones/combolavierose.php">
+                <img src="../images/Diapositiva32.JPG" alt="combo32">
+            </a>
+            <a href="../promociones/combolavierose.php">
+                <h4>Combo La Vie en Rose</h4>
+            </a>
+        </div>
     </div>
     <!--Redes Sociales-->
     <?php
