@@ -251,6 +251,14 @@
                 <h4>Vino San Felipe 12 Uvas</h4>
             </a>
         </div>
+        <div class="vino29">
+            <a href="../vinos/cslavuelta.php">
+                <img src="../images/vDiapositiva30.JPG" alt="Vino LV Cabernet Sauvignon">
+            </a>
+            <a href="../vinos/cslavuelta.php">
+                <h4>Vino La Vuelta Cabernet Sauvignon</h4>
+            </a>
+        </div>
     </div>
     <!--Redes Sociales-->
     <?php

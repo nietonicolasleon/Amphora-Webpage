@@ -284,6 +284,19 @@
             </a>
         </div>
     </div>
+    <h3 id="h3text">Seguinos en Facebook e Instagram para ver m&aacute;s combos:</h3>
+    <div class="mcontacto">
+        <div class="item1">
+            <a href="https://www.facebook.com/Amphora-102135655627341" target="_blank" id="facebig">
+                <i class="fab fa-facebook"></i>
+            </a>
+        </div>
+        <div class="item2">
+            <a href="https://www.instagram.com/vinoamphora/" target="_blank" id="instabig">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+    </div>
     <!--Redes Sociales-->
     <?php
         require_once '../recursos/footer.php';

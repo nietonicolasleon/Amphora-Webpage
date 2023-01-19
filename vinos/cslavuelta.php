@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../estilos/styles.css"/>
     <!--Conexión con ícono Personalizado-->
     <link rel="shotcut icon" href="../images/Anforaico.ico"/>
-    <title>Espumante San Felipe Extra Brut</title>
+    <title>Vino La Vuelta Cabernet Sauvignon</title>
 </head>
 <body>
     <div class="menu-btn">
@@ -26,19 +26,18 @@
         ?>
         <hr/>
     </div>
-    <h2 class="titular">Espumante San Felipe Extra Brut</h2>
+    <h2 class="titular">Vino La Vuelta Cabernet Sauvignon</h2>
     <div class="producto">
         <div class="imagen">
-            <img src="../images/eDiapositiva2.JPG" alt="Espumante San Felipe Extra Brut">
+            <img src="../images/vDiapositiva30.JPG" alt="Vino LV Cabernet Sauvignon">
         </div>
         <div>
             <p class="desc">
-                Vino espumoso elaborado con las uvas de las variedades Chenin y Chardonnay por método Charmat.<br> 
-                De color dorado con reflejos verdosos, posee burbujas finas y persistentes. Su aroma, muy frutado, recuerda a ananá y duraznos blancos.
-                El contacto con sus lías, le otorgan a este gran espumante el equilibrio necesario entre frutas cítricas y complejidad en boca.
-                De final limpio, fresco y largo. Ideal como aperitivo o para acompañar comidas.<br>
+                Variedad: 100% Cabernet Sauvignon.<br>
                 <br>
-                ¡Consult&aacute; tambi&eacute;n por las variedades Ros&eacute; y Extra Dolce!<br>
+                Rojo rubí, con reflejos ciruela. Los tenues aromas que fluyen en la nariz recuerdan a cuero y ahumados, en un grato marco mentolado.
+                Hay frescura en este tinto de fluidez asombrosa, cuando llega al paladar. Un final de boca largo invoca el muy buen equilibrio conseguido entre acidez y taninos.<br>
+                <br>
                 Contenido: 750 ml.<br>
                 <br>
             </p>

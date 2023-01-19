@@ -223,6 +223,10 @@ hr{
     color: gold;
 }
 
+#h3text{
+    text-align: center;
+}
+
 #facebig{
     font-size: 60px;
     color: blue;
@@ -412,6 +416,10 @@ hr{
 }
 
 .vino28{
+    justify-self: center;
+}
+
+.vino29{
     justify-self: center;
 }
 
